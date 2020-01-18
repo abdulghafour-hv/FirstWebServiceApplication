@@ -1,2 +1,0 @@
-# FirstWebServiceApplication
-Lab1
